@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Book List</string>
+    <string name="hint_text">Enter a book topic…</string>
+    <string name="search_button">Search</string>
+    <string name="by_author">"By "</string>
+    <string name="no_results">Search returned 0 results</string>
+    <string name="no_connection">No internet connection</string>
+
+
+</resources>
